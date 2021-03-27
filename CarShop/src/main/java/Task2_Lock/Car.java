@@ -1,4 +1,4 @@
-package Task2;
+package Task2_Lock;
 
 public class Car {
 }
